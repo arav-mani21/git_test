@@ -1,0 +1,8 @@
+what are tags?
+denote where an element starts and finishes
+
+what are elements?
+pieces of content wrapped in tags
+void elements - elements with no content and closing tag
+
+SEMANTIC HTML: practice of using the correct elements
